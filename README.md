@@ -25,9 +25,17 @@ pip install -r requirements.txt
 
 ### Running the file
 Edit main.py to run different algorithms or to change maze files. On default, main.py runs all 3 search algorithms on maze-VLarge.txt. Maze visualizations can be found in `/maze-algorithms/visuals/`.
+
 ```
 python main.py
 ```
+</br>
+
+#### File Contents:
+- Depth-First search algorithm can be found in `depth_first.py`. <br>
+- A* search algorithm can be found in `a_star.py`. <br>
+- Bi-Directional search algorithm can be found in `bi_a_star.py`. <br>
+- `utils.py` contains helper functions to read the maze, return maze exits and to draw visualizations.
 
 ---
 

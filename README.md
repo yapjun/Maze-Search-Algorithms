@@ -7,13 +7,13 @@ Make sure Python 3.10.0+ is installed on your device. [PIP](https://pip.pypa.io/
 
 ## Virtual Environment Setup
 ### for macOS
-Create your virtual environment with `python3 -m venv virtualenv`.</br>
-Activate your virtual environment with `source virtualenv/bin/activate`.
+- Create your virtual environment with `python3 -m venv virtualenv`.</br>
+- Activate your virtual environment with `source virtualenv/bin/activate`.
 
 
 ### for Windows 
-Create a virtual environment with `python -m venv virtualenv`. </br>
-Activate your virtual environment with `virtualenv\Scripts\activate.bat`.
+- Create a virtual environment with `python -m venv virtualenv`. </br>
+- Activate your virtual environment with `virtualenv\Scripts\activate.bat`.
 
 ---
 

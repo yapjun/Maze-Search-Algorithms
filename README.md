@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```
 
 ### Running the file
-Edit main.py to run different algorithms or to change maze files. On default, main.py runs all 3 search algorithms on maze-VLarge.txt. 
+Edit main.py to run different algorithms or to change maze files. On default, main.py runs all 3 search algorithms on maze-VLarge.txt. Maze visualizations can be found in `/maze-search-algorithms/visuals/`.
 ```
 python main.py
 ```
